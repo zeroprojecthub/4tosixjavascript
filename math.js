@@ -69,7 +69,7 @@ x = d.toLocaleString('default', {
     hour: 'numeric',
     minute: 'numeric',
     second: 'numeric',
-    timeZone: 'Asia/Jakarta',
+    timeZone: 'Asia/kolkata',
   });
 
 
